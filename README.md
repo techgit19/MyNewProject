@@ -1,0 +1,2 @@
+# MyNewProject
+for learning purpose
